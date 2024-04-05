@@ -1,3 +1,7 @@
+**NAME : R.JAYASREE**
+
+**R.NO : 212223040074**
+
 # Fitting Poisson  distribution
 # Aim : 
 
