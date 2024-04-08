@@ -1,8 +1,12 @@
+**DEVELOPED BY**
+
 **NAME : R.JAYASREE**
 
 **R.NO : 212223040074**
 
-# Fitting Poisson  distribution
+# EX 2 :  Fitting Poisson  distribution
+
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
